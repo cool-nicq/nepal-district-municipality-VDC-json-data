@@ -243,7 +243,7 @@ $(function() {
 			
 			
 			
-		  	$("#mail").attr('href','mailto:it@neco.com.np?subject=Branch_Google_MaP&body=<table width=50% border=1><tr><td>'+branchName+'</td><td>'+stateName+'</td><td>'+districtName+'</td><td>'+munName+'</td><td>'+wardNo+'</td><td>'+zoneName+'</td></tr></table><br><br><a href=https://www.google.com/maps/place/'+positionInfo+'>Click here for Google Map</a>');
+		  	$("#mail").attr('href','mailto:user@gmail.com?subject=Branch_Google_MaP&body=<table width=50% border=1><tr><td>'+branchName+'</td><td>'+stateName+'</td><td>'+districtName+'</td><td>'+munName+'</td><td>'+wardNo+'</td><td>'+zoneName+'</td></tr></table><br><br><a href=https://www.google.com/maps/place/'+positionInfo+'>Click here for Google Map</a>');
 		  }
 		});
 	});
